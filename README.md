@@ -1,5 +1,9 @@
 ﻿# Microservice For Loan Approval
 
+ [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+ [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+ 	[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
 This repository contains a microservice for loan approval hosted on Docker container with Flask API for access. User can send a POST request to the API with the required data, and it will return whether the loan is approved or not.
 
 ## Using This Repository
